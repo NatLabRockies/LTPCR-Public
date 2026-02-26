@@ -1,5 +1,5 @@
 # Light Trapping Planar Cavity Receiver (LTPCR)
-## List of publications [2023](#2023) | [2024](#2024) | [2025](#2025) | [ASME-ES-2025](#ASME-ES-2025)
+## List of publications [2025](#2025) | [2024](#2024) | [2023](#2023) | [ASME-ES-2025](#ASME-ES-2025)
 ### 2025
 1. Abourazzouk, O., Shah, M.P., Martinek, J., He, X., Ma, Z. and Li, L., 2026. Thermomechanical analysis and modeling of a high-temperature light trapping planar cavity solar receiver. Solar Energy, 308, p.114377.
 2. Punchi Wedikkara, C.V., Martinek, J., Ma, Z. and Morris, A.B., 2025, July. Geometric Optimization of an External Enclosure to Enhance Receiver Thermal Performance in Concentrated Solar Power Systems. In Energy Sustainability (Vol. 89039, p. V001T05A005). American Society of Mechanical Engineers.
