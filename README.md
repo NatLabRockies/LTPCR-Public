@@ -1,5 +1,5 @@
 # Light Trapping Planar Cavity Receiver (LTPCR)
-## List of publications [2025](#2025) | [2024](#2024) | [2023](#2023) | [ASME-ES-2025](#ASME-ES-2025)
+## List of publications [2026](#2026) | [2025](#2025) | [2024](#2024) | [2023](#2023) | [ASME-ES-2025](#ASME-ES-2025)
 
 
 ### 2026
