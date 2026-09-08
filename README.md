@@ -32,10 +32,6 @@
 7. Martinek, J., Shah, M. P., Jeong, S. Y., He, X., Ma, Z., Appaswamy, K., Punchi Wedikkara, C. V., Morris, A., Abourazzouk, O., and Li, L., 2026, Prototype Modeling for a Light-Trapping Planar-Cavity Enclosed Particle Solar Receiver, National Laboratory of the Rockies (NLR), Golden, CO (United States).
 
 ### D. Software Records
-1. He, X., Ma, Z., Purnkant Shah, M., and Martinek, J., 2026, TEC (ThermoElastoCreep) [SWR-25-167].
+1. He, X., Ma, Z., Purnkant Shah, M., and Martinek, J., 2026, TEC (ThermoElastoCreep) [SWR-25-167]. https://doi.org/10.11578/dc.20260710.1
 
-### E. Manuscripts in Preparation
-1. Martinek, J., Shah, M., and Ma, Z., “Optical and Thermal Performance Analysis of a High Temperature Planar Cavity Fluidized Particle Solar Receiver in the Absence of Wind.”
-2. Punchi Wedikkara, C., Martinek, J., Ma, Z., and Morris, A., “Enhancing Thermal Performance of a Concentrated Solar Power Receiver Using an External Enclosure.”
-3. Appaswamy, K., Martinek, J., Shah, M., Jeong, S., Ma, Z., and Morris, A., “Eulerian-Eulerian Modeling of a 100 kWt Enclosed Cavity Fluidized Bed Particle Receiver.”
-4. Farias, M., Patel, U., Mishra, A., Shah, M., Martinek, J., Xu, B., and Ma, Z., “Design & Technoeconomic Analysis of 50 MWt Light-Trapping Planar Cavity Receiver-Based CSP System.”
+
