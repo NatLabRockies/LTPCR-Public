@@ -1,5 +1,5 @@
 # Light Trapping Planar Cavity Receiver (LTPCR)
-## List of publications [Journal Articles](#a-journal-articles) | [Manuscripts in Preparation](#b-manuscripts-in-preparation) | [Conference Papers](#c-conference-papers) | [Conference Presentations](#d-conference-presentations) | [Software Records](#e-software-records) | [ASME-ES-2025](#ASME-ES-2025)
+## List of publications [Journal Articles](#a-journal-articles) |  [Conference Papers](#b-conference-papers) | [Conference Presentations](#c-conference-presentations) | [Software Records](#d-software-records) | [Manuscripts in Preparation](#e-manuscripts-in-preparation) |
 
 
 ### A. Journal Articles
